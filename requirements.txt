@@ -4,3 +4,4 @@ tensorflow
 scikit-learn
 joblib
 huggingface_hub
+scipy==1.10.1
