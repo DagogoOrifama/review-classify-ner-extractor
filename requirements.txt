@@ -1,6 +1,6 @@
 streamlit
 spacy
 tensorflow
-sklearn
+scikit-learn
 joblib
 huggingface_hub
