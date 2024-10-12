@@ -1,0 +1,6 @@
+streamlit
+spacy
+tensorflow
+sklearn
+joblib
+huggingface_hub
