@@ -25,7 +25,7 @@ This project implements a solution for analyzing product reviews by extracting e
 - **Visualization**: Provides insights into review lengths, word distributions, and entity sentiments using graphs and heatmaps.
 
 ## Dataset
-The project uses the [**Amazon Product Reviews**](https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products) dataset from Kaggle, specifically focusing on reviews of the **Fire Kids Edition Tablet**. Data preprocessing includes:
+The project uses the [**Amazon Product Reviews**](https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products) dataset from Kaggle, specifically focusing on reviews of the **Fire Tablet, 7 Display, Wi-Fi, 16 GB - Includes Special Offers, Black**. Data preprocessing includes:
 - Text cleaning (removing stopwords, punctuation).
 - Tokenization and TF-IDF vectorization for feature extraction.
 - Labeling review sentiments based on star ratings (1-2 as Negative, 4-5 as Positive, 3 as Neutral).
