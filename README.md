@@ -54,14 +54,14 @@ The project uses the [**Amazon Product Reviews**](https://www.kaggle.com/dataset
 - **requirements.txt**:  
   A list of Python dependencies needed to run the project, including libraries like TensorFlow, spaCy, and Streamlit.
 
- **model_3.h5** and **tfidf_vectorizer.pkl**:  
+- **model_3.h5** and **tfidf_vectorizer.pkl**:  
   These files, containing the sentiment classification model and TF-IDF vectorizer, are stored on Hugging Face's model hub and are fetched dynamically by the app.
 
-- - **README.md**:  
+- **README.md**:  
   A detailed overview of the project, explaining its purpose, setup instructions, and usage.
 
 
--## System Dependencies
+## System Dependencies
 
 In addition to the Python libraries listed in `requirements.txt`, the following system dependencies are required for this project:
 
