@@ -122,3 +122,11 @@ The project includes visualizations for:
 Special thanks to:
 - Kaggle for the dataset.
 - Hugging Face for providing model hosting and deployment services.
+- 
+## Author
+
+This project was developed by **Dagogo Orifama**.  
+For more information or inquiries, feel free to connect via:
+
+- [GitHub](https://github.com/DagogoOrifama)
+- [LinkedIn](https://www.linkedin.com/in/dagogoorifama/)
