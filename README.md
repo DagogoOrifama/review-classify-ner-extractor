@@ -122,7 +122,7 @@ The project includes visualizations for:
 Special thanks to:
 - Kaggle for the dataset.
 - Hugging Face for providing model hosting and deployment services.
-- 
+
 ## Author
 
 This project was developed by **Dagogo Orifama**.  
