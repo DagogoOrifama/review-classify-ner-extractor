@@ -43,6 +43,37 @@ The project uses the [**Amazon Product Reviews**](https://www.kaggle.com/dataset
 - **Model 3**: Further improvement with data augmentation (paraphrasing).
 - Accuracy and performance were measured using metrics like Precision, Recall, and F1-Score. Visualized results with confusion matrices and accuracy curves.
 
+## File Descriptions
+
+- **app.py**:  
+  The main script for the Streamlit app, which integrates the sentiment classification and named entity recognition models. It handles user inputs, performs predictions, and displays the results in an interactive web interface.
+
+- **Experiments.ipynb**:  
+  Jupyter notebook containing the three main experiments for sentiment classification and entity recognition models, along with other analyses, including the evaluation metrics and model performance results.
+
+- **requirements.txt**:  
+  A list of Python dependencies needed to run the project, including libraries like TensorFlow, spaCy, and Streamlit.
+
+ **model_3.h5** and **tfidf_vectorizer.pkl**:  
+  These files, containing the sentiment classification model and TF-IDF vectorizer, are stored on Hugging Face's model hub and are fetched dynamically by the app.
+
+- - **README.md**:  
+  A detailed overview of the project, explaining its purpose, setup instructions, and usage.
+
+
+-## System Dependencies
+
+In addition to the Python libraries listed in `requirements.txt`, the following system dependencies are required for this project:
+
+- **libblas-dev**:  
+  Provides the Basic Linear Algebra Subprograms (BLAS) library, which is essential for performing efficient matrix operations in numerical computations.
+
+- **liblapack-dev**:  
+  A library for linear algebra routines, used for solving systems of linear equations, linear least squares problems, and more.
+
+- **gfortran**:  
+  The GNU Fortran compiler, required for compiling scientific and mathematical libraries, particularly those that rely on Fortran-based linear algebra routines.
+
 ## Installation
 
 1. Clone the repository:
